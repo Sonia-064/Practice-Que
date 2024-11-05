@@ -1,2 +1,3 @@
 # Practice-Que
-Python practice questions
+Python practigce questions
+First PR done
