@@ -1,3 +1,4 @@
 # Practice-Que
-Python practigce questions
-First PR done
+Python practice questions
+First PR donemkdir flask_app
+cd flask_app
